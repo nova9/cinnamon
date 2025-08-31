@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Culture on Cinnamon Wiki</title>
+    <link>http://localhost:1313/blog/culture/</link>
+    <description>Recent content in Culture on Cinnamon Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Thathsara Madusha.</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cinnamon Around the World: Cultural and Culinary Uses</title>
+      <link>http://localhost:1313/cinnamon-around-the-world-cultural-and-culinary-uses/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cinnamon-around-the-world-cultural-and-culinary-uses/</guid>
+      <description>&lt;p&gt;Cinnamon is a global spice, featured in the cuisines and traditions of many cultures. In Mexico, it is a key ingredient in traditional hot chocolate and desserts like arroz con leche. In the Middle East, cinnamon is used in savory dishes such as tagines and pilafs. Indian cuisine incorporates cinnamon into spice blends like garam masala, adding depth to curries and biryanis.&lt;/p&gt;&#xA;&lt;p&gt;Beyond food, cinnamon is used in traditional medicine, religious rituals, and even perfumes. Its universal appeal lies in its ability to enhance both flavor and aroma, making it a cherished spice in kitchens and cultures around the world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

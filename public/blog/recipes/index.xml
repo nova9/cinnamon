@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Cinnamon Wiki</title>
+    <link>http://localhost:1313/blog/recipes/</link>
+    <description>Recent content in Recipes on Cinnamon Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Thathsara Madusha.</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cinnamon in the Kitchen: Recipes and Tips</title>
+      <link>http://localhost:1313/cinnamon-in-the-kitchen-recipes-and-tips/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cinnamon-in-the-kitchen-recipes-and-tips/</guid>
+      <description>&lt;p&gt;Cinnamon is a versatile spice that can be used in a variety of dishes. From classic cinnamon rolls to savory Moroccan tagines, its warm flavor enhances both sweet and savory recipes. Try adding a pinch of cinnamon to your morning oatmeal, coffee, or smoothie for a flavorful boost.&lt;/p&gt;&#xA;&lt;p&gt;For baking, cinnamon pairs well with apples, pears, and pumpkin. In savory dishes, it complements meats like lamb and chicken. Don’t forget to experiment with cinnamon in beverages—homemade chai tea and mulled wine are perfect for cozy evenings. With a little creativity, cinnamon can become a star ingredient in your kitchen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

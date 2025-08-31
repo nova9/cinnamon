@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ceylon on Cinnamon Wiki</title>
+    <link>http://localhost:1313/blog/ceylon/</link>
+    <description>Recent content in Ceylon on Cinnamon Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Thathsara Madusha.</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/ceylon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cassia vs. Ceylon: The Two Types of Cinnamon</title>
+      <link>http://localhost:1313/cassia-vs.-ceylon-the-two-types-of-cinnamon/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cassia-vs.-ceylon-the-two-types-of-cinnamon/</guid>
+      <description>&lt;p&gt;Not all cinnamon is created equal. The two main types are Cassia and Ceylon. Cassia cinnamon, which is darker and has a stronger flavor, is the most common variety found in supermarkets. It is grown mainly in China and Indonesia. Ceylon cinnamon, also known as &amp;ldquo;true cinnamon,&amp;rdquo; is lighter in color and has a more delicate, sweet flavor. It is primarily grown in Sri Lanka.&lt;/p&gt;&#xA;&lt;p&gt;Ceylon cinnamon is considered superior for its subtle taste and lower coumarin content, which makes it safer for regular consumption. When shopping for cinnamon, check the label to see which type you’re buying. For everyday use, especially in large quantities, Ceylon is the preferred choice.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

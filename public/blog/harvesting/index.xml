@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harvesting on Cinnamon Wiki</title>
+    <link>http://localhost:1313/blog/harvesting/</link>
+    <description>Recent content in Harvesting on Cinnamon Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Thathsara Madusha.</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/harvesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Cinnamon is Harvested and Processed</title>
+      <link>http://localhost:1313/how-cinnamon-is-harvested-and-processed/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how-cinnamon-is-harvested-and-processed/</guid>
+      <description>&lt;p&gt;Cinnamon is harvested from the inner bark of trees belonging to the Cinnamomum genus. The process begins by cutting the stems of the tree and scraping off the outer bark. The inner bark is then carefully peeled away in long strips, which curl into quills as they dry.&lt;/p&gt;&#xA;&lt;p&gt;After drying, the quills are cut into sticks or ground into powder. The quality of cinnamon depends on factors like the age of the tree, the climate, and the skill of the harvesters. Traditional methods are still used in many regions, ensuring that each batch of cinnamon retains its unique flavor and aroma.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

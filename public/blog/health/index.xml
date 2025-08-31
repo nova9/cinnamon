@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Cinnamon Wiki</title>
+    <link>http://localhost:1313/blog/health/</link>
+    <description>Recent content in Health on Cinnamon Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Thathsara Madusha.</copyright>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health Benefits of Cinnamon: More Than Just a Spice</title>
+      <link>http://localhost:1313/health-benefits-of-cinnamon-more-than-just-a-spice/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/health-benefits-of-cinnamon-more-than-just-a-spice/</guid>
+      <description>&lt;p&gt;Cinnamon is not just a flavorful addition to your favorite recipes—it also offers a range of health benefits. Studies have shown that cinnamon can help lower blood sugar levels, making it beneficial for people with diabetes. It is also rich in antioxidants, which help protect the body from oxidative stress and inflammation.&lt;/p&gt;&#xA;&lt;p&gt;Some research suggests that cinnamon may have antimicrobial properties, helping to fight off bacteria and fungi. Additionally, it has been linked to improved heart health by reducing cholesterol and triglyceride levels. While more research is needed, adding cinnamon to your diet can be a delicious way to support your overall well-being.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
